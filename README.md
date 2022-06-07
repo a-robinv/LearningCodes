@@ -1,1 +1,1 @@
-# Python codes written while learning to code compiled for future references
+# Codes written while learning to code compiled for future references
