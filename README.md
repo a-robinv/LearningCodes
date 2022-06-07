@@ -1,1 +1,1 @@
-# Codes written while learning to code compiled for future references
+# Codes written while learning to program compiled for future references
